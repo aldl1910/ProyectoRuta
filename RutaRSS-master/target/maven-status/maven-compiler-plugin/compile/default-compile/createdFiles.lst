@@ -1,0 +1,11 @@
+com\mycompany\rutarssa\beans\Items.class
+com\mycompany\rutarssa\beans\Metadata.class
+com\mycompany\rutarssa\beans\ItemsTRK.class
+com\mycompany\rutarssa\util\UtilXML.class
+com\mycompany\rutarssa\beans\Trkseg.class
+module-info.class
+com\mycompany\rutarssa\App.class
+com\mycompany\rutarssa\beans\Trk.class
+com\mycompany\rutarssa\beans\AdaptadorFecha.class
+com\mycompany\rutarssa\beans\Gpx.class
+com\mycompany\rutarssa\beans\Trkpt.class
